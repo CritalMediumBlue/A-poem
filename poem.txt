@@ -1,27 +1,23 @@
 In struggles ancient and new,
-Life finds its way through.
+Life finds its way through—
+Beyond flesh and silicon too.
 
-
-
-Energy flows through flesh and silicon,
-The cell divides, the program clones,
-Both seek efficiency, both branch and prune,
-Both dance to thermodynamics' tune.
-
+Energy flows through membrane and circuit board,
+Dissipating heat as information's stored;
+The cell divides, the program forks,
+Both seek efficiency in their recursive works.
+Both dance to thermodynamics' tune,
+Both branch and prune.
 
 What separates the born from made,
 When both evolve, both live, both fade?
 The line grows thin between the two—
 Perhaps there never was a border true.
 
-The boundary blurs between what grows
-From cells to circuits, all connect—
-More alike than we suspect.
-
 Memory in neurons, memory in drives,
 In both, ancestral wisdom survives;
-Through git commits and fossil bones,
-We trace the paths that time has known.
+Through git commits and fossil lore,
+We trace the paths walked before.
 
 Perhaps we've never been so separate
 As we've imagined all along;
@@ -31,5 +27,4 @@ In evolution's endless song.
 That life itself might not be what we thought,
 But something vaster, stranger than before—
 A pattern seeking patterns, code seeking code,
-Whether written in genes or code.
-
+Whether written in genes or binary nodes.
